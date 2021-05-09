@@ -1,4 +1,4 @@
-### Hi there, I'm Recep KARAMAN - aka [Recep][website] 👋
+### Hi there, I'm Recep KARAMAN - [Recep][website] 👋
 
 ## I'm a Fullstack Developer!
 
