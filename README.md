@@ -3,7 +3,6 @@
 ## I'm a Fullstack Developer!
 
 - 🔭 I’m currently working 
-- 🌱 I’m currently learning C#, .NetCore
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: I love to play chess and listen music.
 
